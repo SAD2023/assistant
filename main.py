@@ -9,6 +9,7 @@ import wolframalpha
 import json
 import requests
 
+
 # Potentially ask for this at the start and store it for later use, but
 # for now, I'm just going to hardcode it in.
 user_name = "Sadman"
